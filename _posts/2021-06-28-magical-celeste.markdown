@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Magical Celeste"
-subtitle: "Problems look mighty small from 150 miles up"
+subtitle: "A Kontakt instrument inspired by the magic of Harry Potter"
 date: 2021-06-28 16:46:00 +0200
 tags: [Kontakt instruments]
 background: '/img/posts/06.jpg'
