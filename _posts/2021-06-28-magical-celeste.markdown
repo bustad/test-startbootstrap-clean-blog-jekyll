@@ -13,6 +13,8 @@ I found some [free public domain celeste samples](https://freesound.org/people/s
 
 ![screenshot](/images/screenshot.png)
 
+<img class="img-fluid" src="/images/screenshot.png" alt="Demo Image">
+
 The features of this instrument are now the following:
 
 - Celeste samples
